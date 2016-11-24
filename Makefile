@@ -7,8 +7,8 @@
 # the Free Software Foundation; either version 2 of the License, or
 # (at your option) any later version.
 
-DESTDIR	=
-prefix	= /usr/local
+DESTDIR	= build
+prefix	= /usr
 bindir	= $(prefix)/bin
 sbindir	= $(prefix)/sbin
 mandir	= $(prefix)/share/man
